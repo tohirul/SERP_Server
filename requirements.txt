@@ -52,7 +52,7 @@ murmurhash==1.0.12
 mypy-extensions==0.4.3
 networkx==3.4.2
 nltk==3.8
-numpy==1.24.2
+numpy==2.2.5
 nvidia-cublas-cu12==12.6.4.1
 nvidia-cuda-cupti-cu12==12.6.80
 nvidia-cuda-nvrtc-cu12==12.6.77
@@ -68,11 +68,12 @@ nvidia-nccl-cu12==2.26.2
 nvidia-nvjitlink-cu12==12.6.85
 nvidia-nvtx-cu12==12.6.77
 oauthlib==3.2.2
-packaging==23.0
+packaging==25.0
 pandas==2.2.3
 paramiko==2.12.0
 pathspec==0.11.0
 pillow==11.2.1
+pipdeptree==2.26.1
 platformdirs==4.3.7
 pluggy==1.0.0
 preshed==3.0.9
